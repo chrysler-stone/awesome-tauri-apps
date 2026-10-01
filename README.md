@@ -73,6 +73,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Productivity
 
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
+- [MSL Desktop](https://msl-desktop.pages.dev/) - Windows workspace for medical science liaisons, linking local project records, expert notes and calendars with reviewable AI suggestions. Source-visible, without a declared open-source license. Free app; user-selected AI APIs may charge separately.
 - [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
 - [Team Times Viewer](https://kmuncie.com/team-times) - Shows which teammates are working right now, based on their schedules and time zones. Syncs across Mac, iPhone and iPad with iCloud. Closed-source. (Paid)
 - [Zmina](https://zmina.app) - Clipboard manager that suggests actions based on the app you're pasting into, for macOS. Closed-source. (Commercial)
