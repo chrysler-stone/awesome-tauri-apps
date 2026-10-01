@@ -53,6 +53,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Notes & Knowledge
 
 - [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings that transcribes and summarizes locally. (Commercial)
+- [inkling](https://github.com/Squidys-Tools/inkling) - Local-first library for saving articles, images, PDFs, notes, quotes and videos, found again with semantic search and OCR.
 - [Lokus](https://github.com/lokus-ai/lokus) - Local-first note-taking app with a block editor and wiki-style linking.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern Markdown editor with a WYSIWYG mode.
 - [mdSilo](https://github.com/mdSilo/mdSilo-app) - Lightweight Markdown knowledge base with bidirectional links.
@@ -74,6 +75,8 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
 - [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
+- [Team Times Viewer](https://kmuncie.com/team-times) - Shows which teammates are working right now, based on their schedules and time zones. Syncs across Mac, iPhone and iPad with iCloud. Closed-source. (Paid)
+- [Zmina](https://zmina.app) - Clipboard manager that suggests actions based on the app you're pasting into, for macOS. Closed-source. (Commercial)
 
 ## Communication
 
@@ -90,6 +93,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Media & Recording
 
 - [Cap](https://github.com/CapSoftware/Cap) - Open-source screen recorder and sharing tool. (Commercial)
+- [Multistream](https://github.com/ilanzgx/multistream) - Watch multiple live streams simultaneously from Twitch, Kick, and YouTube with integrated chat, stream recording, and local AI transcription.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Cross-device virtual file explorer.
 
@@ -105,6 +109,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Science & Data
 
 - [Annimate](https://github.com/matthias-stemmler/annimate) - Convenient export of query results from the ANNIS system for linguistic corpora.
+- [dcmage](https://dcmage.com) - DICOM tag editor, anonymizer and 3D viewer for macOS and the browser that processes studies locally. Closed-source.
 - [GeoLibre](https://github.com/opengeos/GeoLibre) - Lightweight, cloud-native GIS platform to visualize, explore and analyze geospatial data.
 
 ## Utilities
