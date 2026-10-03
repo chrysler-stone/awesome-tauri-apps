@@ -67,6 +67,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Hopp](https://github.com/gethopp/hopp) - Open-source remote pair programming app.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development ecosystem (desktop app built with Tauri). (Commercial)
 - [kftray](https://github.com/hcavarsan/kftray) - Manage Kubernetes port-forwards from the system tray.
+- [Salience](https://github.com/clegginabox/salience-macos) - Connects your branches, tickets, PRs, builds and deploys into one picture, for you and your AI agents. Closed-source.
 - [SGSql](https://github.com/stalingino/sgsql) - Fast SQL client for MySQL, PostgreSQL, SQLite and Oracle, with MCP sharing for AI agents.
 - [Yaak](https://github.com/mountain-loop/yaak) - Fast, offline-friendly API client for REST, GraphQL, gRPC and more. (Commercial)
 
