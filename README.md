@@ -73,6 +73,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Productivity
 
 - [Asyar](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design.
+- [Focus](https://ripplestudios.app) - Local-first Windows desktop application for automated personal time tracking. Closed-source.
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
 - [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
 - [Supply Chain Toolkit](https://github.com/SuperDaniel-cn/supply_chain_toolkit) - A zero-database, offline desktop inventory decision-making and forecasting tool for procurement and supply chain planners.
