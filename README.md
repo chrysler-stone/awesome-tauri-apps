@@ -26,6 +26,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ### Chat & Local LLMs
 
 - [ChatGPT Desktop (lencx)](https://github.com/lencx/ChatGPT) - Unofficial ChatGPT desktop client.
+- [digibuddy](https://github.com/FabianGallardo-coder/digibuddy) - Desktop Digimon pet that wanders your screen and chats with a local LLM.
 - [Jan](https://github.com/menloresearch/jan) - Open-source, offline-first ChatGPT alternative running local LLMs.
 - [Local.ai](https://github.com/louisgv/local.ai) - Simple app to run AI models locally with no GPU required.
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Lightweight, fast AI assistant with a desktop app supporting many model providers.
