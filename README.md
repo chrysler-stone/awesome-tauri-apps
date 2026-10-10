@@ -95,6 +95,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ## Media & Recording
 
+- [Bhippi Video Editor](https://github.com/memegyanfactory-gif/bhippi-Video-editor) - Windows desktop non-linear editor with an autonomous AI producer and local generative media.
 - [Cap](https://github.com/CapSoftware/Cap) - Open-source screen recorder and sharing tool. (Commercial)
 - [Multistream](https://github.com/ilanzgx/multistream) - Watch multiple live streams simultaneously from Twitch, Kick, and YouTube with integrated chat, stream recording, and local AI transcription.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
