@@ -44,6 +44,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Desktop app to monitor and manage Codex sessions, for macOS and Linux.
 - [Helicon](https://github.com/HarjjotSinghh/helicon) - Desktop GUI for Meta's Muse Code CLI with threads across projects, inline diffs and one-at-a-time approvals. Unofficial, not affiliated with Meta.
 - [Opcode](https://github.com/winfunc/opcode) - GUI for Claude Code to manage sessions, agents and projects (formerly Claudia).
+- [TokLens](https://github.com/MY-Final/TokLens) - Local-first desktop analytics for AI coding clients such as Codex, Claude Code and OpenCode, with read-only collection and a local SQLite store.
 
 ### Assistants & Context
 
