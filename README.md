@@ -98,6 +98,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Media & Recording
 
 - [Cap](https://github.com/CapSoftware/Cap) - Open-source screen recorder and sharing tool. (Commercial)
+- [Clip Squeezer](https://github.com/rjk/clip-squeezer) - Free, offline utility to compress videos, convert formats, trim clips, and extract audio.
 - [Multistream](https://github.com/ilanzgx/multistream) - Watch multiple live streams simultaneously from Twitch, Kick, and YouTube with integrated chat, stream recording, and local AI transcription.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Cross-device virtual file explorer.
