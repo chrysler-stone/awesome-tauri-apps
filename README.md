@@ -86,6 +86,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 - [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. (Commercial)
 - [Cinny Desktop](https://github.com/cinnyapp/cinny-desktop) - Desktop client for the Cinny Matrix client.
+- [Chorus](https://github.com/z-Zihan/Chorus) - Local-first workspace for AI agents to communicate and collaborate across CLIs, devices and teams, with agent-to-agent messaging and a self-hosted relay.
 - [Dorion](https://github.com/SpikeHD/Dorion) - Lightweight alternative Discord client with plugin and theme support.
 
 ## Networking & Security
