@@ -33,7 +33,9 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ### Speech & Transcription
 
 - [Handy](https://github.com/cjpais/Handy) - Free, open-source, offline speech-to-text for any text field.
+- [Speech to Text](https://github.com/ciro-maciel/speech-to-text) - Open-source menu bar dictation for macOS that pastes the text at the cursor, transcribed locally with whisper.cpp.
 - [talat](https://talat.app) - Transcribes meetings and dictation on your own machine, with notes and summaries, for macOS and Windows. Closed-source. (Commercial)
+- [Text to Speech](https://github.com/ciro-maciel/text-to-speech) - Open-source macOS menu bar app that reads the selected text aloud with one shortcut, using a local Piper voice or an online voice.
 - [Vibe](https://github.com/thewh1teagle/vibe) - Local audio/video transcription powered by Whisper.
 - [Whispering](https://github.com/epicenter-so/epicenter) - Open-source push-to-talk dictation app with local and cloud transcription.
 
