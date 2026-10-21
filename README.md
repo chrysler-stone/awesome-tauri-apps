@@ -122,6 +122,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Utilities
 
 - [BongoCat](https://github.com/ayangweb/BongoCat) - Desktop pet cat that reacts to your keyboard and mouse.
+- [Chatda](https://barbellsoft.com/chatda/) - Fast file search by name and by the text inside PDF, Word, Excel, PowerPoint and HWPX documents, including network folders, for Windows and macOS. Closed-source.
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Cross-platform clipboard manager.
 - [NeoHtop](https://github.com/Abdenasser/neohtop) - Modern, cross-platform system monitor in the spirit of htop.
 - [Pake](https://github.com/tw93/Pake) - Turn any web page into a lightweight desktop app with one command.
