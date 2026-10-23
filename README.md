@@ -111,6 +111,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Finance
 
 - [BeanDesk](https://github.com/SuperDaniel-cn/BeanDesk) - A modern, lightweight cross-platform desktop financial workbench for Beancount & Fava with GAAP statements.
+- [MoneyCoffee](https://getapps.cafe/app/moneycoffee) - Personal finance tracker that imports statements, bank messages and receipt photos into budgets, bills, goals and debts, for macOS and Windows. Closed-source. (Paid)
 - [Wealthfolio](https://github.com/wealthfolio/wealthfolio) - Private, local-first investment tracker.
 
 ## Science & Data
