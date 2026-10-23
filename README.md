@@ -104,6 +104,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ## Games & Launchers
 
+- [ChessCafe](https://getapps.cafe/app/chesscafe) - 3D chess where sculpted pieces fight out every capture, against the computer or a friend, for macOS and Windows. Closed-source.
 - [Modrinth App](https://github.com/modrinth/code) - Launcher for Minecraft mods and modpacks.
 - [Overlayed](https://github.com/overlayeddev/overlayed) - Voice chat overlay for Discord.
 - [Parlour](https://github.com/braedonsaunders/parlour) - Card games like Hearts, Euchre, Cribbage and solitaire, played against bots or with friends over a peer-to-peer room code with no accounts.
