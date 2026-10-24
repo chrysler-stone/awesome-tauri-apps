@@ -74,6 +74,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ## Productivity
 
+- [Alpha File Manager](https://github.com/kizemo/alpha-file-manager) - File manager with a permanent folder tree, recursive folder comparison and sync, SFTP/FTP/FTPS and a built-in MCP server for AI assistants.
 - [Asyar](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design.
 - [Focus](https://ripplestudios.app) - Local-first Windows desktop application for automated personal time tracking. Closed-source.
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
