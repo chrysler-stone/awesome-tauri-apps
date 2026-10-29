@@ -71,6 +71,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [kftray](https://github.com/hcavarsan/kftray) - Manage Kubernetes port-forwards from the system tray.
 - [SGSql](https://github.com/stalingino/sgsql) - Fast SQL client for MySQL, PostgreSQL, SQLite and Oracle, with MCP sharing for AI agents.
 - [Yaak](https://github.com/mountain-loop/yaak) - Fast, offline-friendly API client for REST, GraphQL, gRPC and more. (Commercial)
+- [Zefaro](https://github.com/andikatuluspangestu/zefaro) - Local PHP and Laravel environment for Windows with sites at name.test, PHP 7.4 to 8.5 side by side, HTTPS, MariaDB and Mailpit.
 
 ## Productivity
 
