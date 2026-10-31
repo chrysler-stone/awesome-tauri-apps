@@ -78,6 +78,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Focus](https://ripplestudios.app) - Local-first Windows desktop application for automated personal time tracking. Closed-source.
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
 - [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
+- [SuperEditr](https://github.com/spectrumzero-dev/supereditr-app) - Proofread and rewrite selected text in any macOS app, offline or with your own AI model.
 - [Supply Chain Toolkit](https://github.com/SuperDaniel-cn/supply_chain_toolkit) - A zero-database, offline desktop inventory decision-making and forecasting tool for procurement and supply chain planners.
 - [Team Times Viewer](https://kmuncie.com/team-times) - Shows which teammates are working right now, based on their schedules and time zones. Syncs across Mac, iPhone and iPad with iCloud. Closed-source. (Paid)
 - [Zmina](https://zmina.app) - Clipboard manager that suggests actions based on the app you're pasting into, for macOS. Closed-source. (Commercial)
