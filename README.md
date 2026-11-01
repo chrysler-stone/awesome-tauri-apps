@@ -43,6 +43,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [CC Switch](https://github.com/farion1231/cc-switch) - Desktop tool to manage and switch providers and configs for Claude Code, Codex and similar AI coding CLIs.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Desktop app to monitor and manage Codex sessions, for macOS and Linux.
 - [Helicon](https://github.com/HarjjotSinghh/helicon) - Desktop GUI for Meta's Muse Code CLI with threads across projects, inline diffs and one-at-a-time approvals. Unofficial, not affiliated with Meta.
+- [Keyway](https://github.com/anmutu/keyway) - Local gateway for AI coding CLIs: route Claude Code and Codex through a local proxy with per-request logs and key management in a desktop UI. (Rust + Tauri 2)
 - [Opcode](https://github.com/winfunc/opcode) - GUI for Claude Code to manage sessions, agents and projects (formerly Claudia).
 
 ### Assistants & Context
