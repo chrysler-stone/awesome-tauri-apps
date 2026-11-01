@@ -113,6 +113,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Finance
 
 - [BeanDesk](https://github.com/SuperDaniel-cn/BeanDesk) - A modern, lightweight cross-platform desktop financial workbench for Beancount & Fava with GAAP statements.
+- [Moony](https://github.com/fiiles/Moony) - Local-first personal finance app that keeps accounts, investments, crypto, property and loans in an encrypted database on your computer, with no account, no cloud and no telemetry.
 - [Wealthfolio](https://github.com/wealthfolio/wealthfolio) - Private, local-first investment tracker.
 
 ## Science & Data
