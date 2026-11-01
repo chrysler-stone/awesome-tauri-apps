@@ -109,6 +109,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Modrinth App](https://github.com/modrinth/code) - Launcher for Minecraft mods and modpacks.
 - [Overlayed](https://github.com/overlayeddev/overlayed) - Voice chat overlay for Discord.
 - [Parlour](https://github.com/braedonsaunders/parlour) - Card games like Hearts, Euchre, Cribbage and solitaire, played against bots or with friends over a peer-to-peer room code with no accounts.
+- [Runsheet](https://github.com/indraine/Runsheet) - Automatic session & lap tracker for Assetto Corsa Competizione built with Tauri and SolidJS.
 
 ## Finance
 
