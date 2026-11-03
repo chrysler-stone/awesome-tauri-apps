@@ -96,6 +96,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge, a proxy client built on the Mihomo core.
 - [Nym Wallet](https://github.com/nymtech/nym) - Desktop wallet for the Nym mixnet.
 - [Padloc](https://github.com/padloc/padloc) - Open-source password manager for individuals and teams.
+- [RYZ Authenticator](https://github.com/riyazalsodie/RYZ-Authenticator) - Open-source, zero-knowledge 2FA and TOTP authenticator for desktop and mobile with encrypted backups and cloud sync.
 
 ## Media & Recording
 
