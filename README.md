@@ -127,6 +127,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Cross-platform clipboard manager.
 - [NeoHtop](https://github.com/Abdenasser/neohtop) - Modern, cross-platform system monitor in the spirit of htop.
 - [Pake](https://github.com/tw93/Pake) - Turn any web page into a lightweight desktop app with one command.
+- [PC Tweaker](https://pctweaker.app/) - Windows 10/11 x64 tuning and Audio diagnostics with recorded changes and restore for supported settings. Source-available under a proprietary license. (Commercial)
 - [Seelen UI](https://github.com/eythaann/Seelen-UI) - Fully customizable desktop environment for Windows 10/11 with dock, toolbar and launcher.
 
 ## Contributing
