@@ -78,6 +78,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Focus](https://ripplestudios.app) - Local-first Windows desktop application for automated personal time tracking. Closed-source.
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
 - [Kensaku](https://github.com/yjid/kensaku) - Local file search that reads inside documents, code, and screenshots (OCR). Alt+Space launcher, meaning-based search, MCP agent access. Free, MIT.
+- [Nyxiontech PDF Tools](https://github.com/jurecki007/nyxiontech-tools) - 25 PDF and image tools that merge, split, compress, sign, fill forms, redact, convert and OCR on your own machine, with no network needed. Free, AGPL-3.0.
 - [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
 - [Supply Chain Toolkit](https://github.com/SuperDaniel-cn/supply_chain_toolkit) - A zero-database, offline desktop inventory decision-making and forecasting tool for procurement and supply chain planners.
 - [Team Times Viewer](https://kmuncie.com/team-times) - Shows which teammates are working right now, based on their schedules and time zones. Syncs across Mac, iPhone and iPad with iCloud. Closed-source. (Paid)
