@@ -106,6 +106,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ## Games & Launchers
 
+- [CTF Launcher](https://launcher.ctf.mom/) - Windows/Linux Minecraft instance manager with DNA links for sharing pack contents and selected configs. Closed-source. (Commercial)
 - [Modrinth App](https://github.com/modrinth/code) - Launcher for Minecraft mods and modpacks.
 - [Overlayed](https://github.com/overlayeddev/overlayed) - Voice chat overlay for Discord.
 - [Parlour](https://github.com/braedonsaunders/parlour) - Card games like Hearts, Euchre, Cribbage and solitaire, played against bots or with friends over a peer-to-peer room code with no accounts.
