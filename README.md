@@ -75,6 +75,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Productivity
 
 - [Asyar](https://github.com/Xoshbin/asyar) - The power of Raycast. The speed of Alfred. Privacy by design.
+- [fly-island](https://github.com/flyl1u/fly-island) - Open-source Windows Dynamic Island for message alerts, coding agent approvals, clipboard history, music, and daily tasks.
 - [Focus](https://ripplestudios.app) - Local-first Windows desktop application for automated personal time tracking. Closed-source.
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
 - [Kensaku](https://github.com/yjid/kensaku) - Local file search that reads inside documents, code, and screenshots (OCR). Alt+Space launcher, meaning-based search, MCP agent access. Free, MIT.
