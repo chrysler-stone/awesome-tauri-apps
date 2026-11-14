@@ -105,6 +105,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Multistream](https://github.com/ilanzgx/multistream) - Watch multiple live streams simultaneously from Twitch, Kick, and YouTube with integrated chat, stream recording, and local AI transcription.
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Cross-device virtual file explorer.
+- [Zenith](https://github.com/tonieninja/zenith-player) - Unofficial YouTube Music desktop player with synced lyrics, a 15-band EQ, crossfade, offline downloads and a phone remote.
 
 ## Games & Launchers
 
