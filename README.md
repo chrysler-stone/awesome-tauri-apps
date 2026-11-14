@@ -66,6 +66,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 - [DevPod](https://github.com/loft-sh/devpod) - Client-only tool to create reproducible dev environments on any backend.
 - [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git client with virtual branches and a modern workflow.
+- [GitScope](https://github.com/devodrag/GitScope) - Desktop analytics for public GitHub repositories with a local database and offline access.
 - [Hopp](https://github.com/gethopp/hopp) - Open-source remote pair programming app.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development ecosystem (desktop app built with Tauri). (Commercial)
 - [kftray](https://github.com/hcavarsan/kftray) - Manage Kubernetes port-forwards from the system tray.
