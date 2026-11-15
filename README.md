@@ -83,6 +83,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Skykeep](https://github.com/YashwanthKamireddi/Skykeep) - iCloud Notes, Reminders, Calendar, Contacts, Drive and Photos as desktop apps for Linux and Windows, kept in a local library that works offline. (Free & Open Source)
 - [Supply Chain Toolkit](https://github.com/SuperDaniel-cn/supply_chain_toolkit) - A zero-database, offline desktop inventory decision-making and forecasting tool for procurement and supply chain planners.
 - [Team Times Viewer](https://kmuncie.com/team-times) - Shows which teammates are working right now, based on their schedules and time zones. Syncs across Mac, iPhone and iPad with iCloud. Closed-source. (Paid)
+- [Unrich](https://coneno.com/en/apps/unrich/) - Plain-text scratchpad for macOS that cleans pasted text, shows what changed, and organizes snippets on boards with columns. Closed-source. (Paid)
 - [Zmina](https://zmina.app) - Clipboard manager that suggests actions based on the app you're pasting into, for macOS. Closed-source. (Commercial)
 - [Lanjut](https://lanjut.org) - Free, open-source ATS résumé and CV builder. Local-first, runs in your browser or as a desktop app. No account, nothing uploaded. (Free & Open Source)
 
