@@ -52,6 +52,10 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Pot](https://github.com/pot-app/pot-desktop) - Translation and OCR tool with support for AI translation services.
 - [Screenpipe](https://github.com/mediar-ai/screenpipe) - Records your screen and audio locally to give AI context about your work. (Commercial)
 
+### Creative Tools
+
+- [AI Canvas Tauri](https://github.com/Tenney95/AI-Canvas-tauri) - Free-to-use, lightweight, local-first AI creative workspace for image/video generation, storyboarding, video editing and asset management, with ComfyUI workflows, AI agents and MCP. Source-available.
+
 ## Notes & Knowledge
 
 - [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings that transcribes and summarizes locally. (Commercial)
