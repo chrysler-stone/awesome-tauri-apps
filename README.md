@@ -91,6 +91,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. (Commercial)
 - [Cinny Desktop](https://github.com/cinnyapp/cinny-desktop) - Desktop client for the Cinny Matrix client.
 - [Dorion](https://github.com/SpikeHD/Dorion) - Lightweight alternative Discord client with plugin and theme support.
+- [MailVault Pro](https://mailvaulty.com) - Local-first Microsoft 365 and Outlook email archiver to offline SQLite FTS5 and Obsidian Markdown, for Windows, macOS and Linux. Closed-source. (Commercial)
 
 ## Networking & Security
 
