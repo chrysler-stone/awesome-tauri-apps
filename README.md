@@ -64,6 +64,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ## Developer Tools
 
+- [ASOMaster](https://asomaster.app) - App Store Optimization app for App Store and Google Play: keyword rank tracking in each market's language, Apple Ads popularity, AI listing drafts and an MCP server, for macOS and Windows (beta). Closed-source. (Paid)
 - [DevPod](https://github.com/loft-sh/devpod) - Client-only tool to create reproducible dev environments on any backend.
 - [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git client with virtual branches and a modern workflow.
 - [Hopp](https://github.com/gethopp/hopp) - Open-source remote pair programming app.
