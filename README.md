@@ -51,6 +51,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [OpenAI Translator](https://github.com/openai-translator/openai-translator) - Browser extension and desktop app for AI-powered translation and summarization.
 - [Pot](https://github.com/pot-app/pot-desktop) - Translation and OCR tool with support for AI translation services.
 - [Screenpipe](https://github.com/mediar-ai/screenpipe) - Records your screen and audio locally to give AI context about your work. (Commercial)
+- [ywza](https://github.com/alielmorsy/ywza) - Computer-use agent for your own PC that lets AI clients see and drive desktops and terminals over MCP, from anywhere.
 
 ## Notes & Knowledge
 
