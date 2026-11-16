@@ -41,6 +41,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 - [Bloop](https://github.com/BloopAI/bloop) - AI-powered code search and Q&A over your codebase (archived).
 - [CC Switch](https://github.com/farion1231/cc-switch) - Desktop tool to manage and switch providers and configs for Claude Code, Codex and similar AI coding CLIs.
+- [ChatVault](https://github.com/ssanaullahrais/Chat-Vault) - Windows app to read, search, back up and continue the chats of Claude Code, Codex, Cursor, Gemini CLI, OpenCode and Cline.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Desktop app to monitor and manage Codex sessions, for macOS and Linux.
 - [Helicon](https://github.com/HarjjotSinghh/helicon) - Desktop GUI for Meta's Muse Code CLI with threads across projects, inline diffs and one-at-a-time approvals. Unofficial, not affiliated with Meta.
 - [Opcode](https://github.com/winfunc/opcode) - GUI for Claude Code to manage sessions, agents and projects (formerly Claudia).
