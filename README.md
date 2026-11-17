@@ -80,6 +80,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Kunkun](https://github.com/kunkunsh/kunkun) - Extensible cross-platform launcher with a plugin system.
 - [Kensaku](https://github.com/yjid/kensaku) - Local file search that reads inside documents, code, and screenshots (OCR). Alt+Space launcher, meaning-based search, MCP agent access. Free, MIT.
 - [Readest](https://github.com/readest/readest) - Modern, feature-rich ebook reader focused on immersive reading. (Commercial)
+- [Seqtrix](https://seqtrix.com) - No-code Windows automation that chains steps and fires them from a hotkey, a schedule or a trigger, with AES-256 file encryption as a step. Closed-source. (Commercial)
 - [Skykeep](https://github.com/YashwanthKamireddi/Skykeep) - iCloud Notes, Reminders, Calendar, Contacts, Drive and Photos as desktop apps for Linux and Windows, kept in a local library that works offline. (Free & Open Source)
 - [Supply Chain Toolkit](https://github.com/SuperDaniel-cn/supply_chain_toolkit) - A zero-database, offline desktop inventory decision-making and forecasting tool for procurement and supply chain planners.
 - [Team Times Viewer](https://kmuncie.com/team-times) - Shows which teammates are working right now, based on their schedules and time zones. Syncs across Mac, iPhone and iPad with iCloud. Closed-source. (Paid)
