@@ -70,6 +70,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development ecosystem (desktop app built with Tauri). (Commercial)
 - [kftray](https://github.com/hcavarsan/kftray) - Manage Kubernetes port-forwards from the system tray.
 - [SGSql](https://github.com/stalingino/sgsql) - Fast SQL client for MySQL, PostgreSQL, SQLite and Oracle, with MCP sharing for AI agents.
+- [StoneSVN](https://github.com/firzen/StoneSVN) - Open-source SVN client for reviewing changes, selecting commits and shelving local modifications.
 - [Yaak](https://github.com/mountain-loop/yaak) - Fast, offline-friendly API client for REST, GraphQL, gRPC and more. (Commercial)
 
 ## Productivity
