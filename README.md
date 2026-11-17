@@ -130,6 +130,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [BongoCat](https://github.com/ayangweb/BongoCat) - Desktop pet cat that reacts to your keyboard and mouse.
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Cross-platform clipboard manager.
 - [NeoHtop](https://github.com/Abdenasser/neohtop) - Modern, cross-platform system monitor in the spirit of htop.
+- [OctoHeft](https://github.com/Th3Gold3nRainbow/OctoHeft) - Lightweight parallel download accelerator built with pure Rust direct I/O.
 - [Pake](https://github.com/tw93/Pake) - Turn any web page into a lightweight desktop app with one command.
 - [Seelen UI](https://github.com/eythaann/Seelen-UI) - Fully customizable desktop environment for Windows 10/11 with dock, toolbar and launcher.
 - [Swift Salamander](https://swiftsalamander.app) - Multi-pane file manager for macOS with cloud and network storage, batch rename, disk analyzer and integrated terminal. Closed-source. (Commercial)
