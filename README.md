@@ -113,6 +113,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Modrinth App](https://github.com/modrinth/code) - Launcher for Minecraft mods and modpacks.
 - [Overlayed](https://github.com/overlayeddev/overlayed) - Voice chat overlay for Discord.
 - [Parlour](https://github.com/braedonsaunders/parlour) - Card games like Hearts, Euchre, Cribbage and solitaire, played against bots or with friends over a peer-to-peer room code with no accounts.
+- [RuneTranslate](https://runetranslate.com) - Game translation app for Windows, macOS and Linux that translates RPG Maker, Ren'Py, Unity, Unreal, Godot and other engine games into any of 35 languages and exports a playable build. Closed-source. (Commercial)
 
 ## Finance
 
