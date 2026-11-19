@@ -61,6 +61,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [mdSilo](https://github.com/mdSilo/mdSilo-app) - Lightweight Markdown knowledge base with bidirectional links.
 - [NoteGen](https://github.com/codexu/note-gen) - Markdown notes with AI-assisted capture and sync.
 - [Project Graph](https://github.com/graphif/project-graph) - Node-based visual tool for organizing thoughts and notes in a non-linear way.
+- [TTKSSK](https://ttkssk.com) - Journal for things, tasks and ideas, pooled by the day. Closed-source.
 
 ## Developer Tools
 
