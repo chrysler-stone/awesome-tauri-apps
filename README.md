@@ -56,6 +56,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 - [Hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings that transcribes and summarizes locally. (Commercial)
 - [inkling](https://github.com/Squidys-Tools/inkling) - Local-first library for saving articles, images, PDFs, notes, quotes and videos, found again with semantic search and OCR.
+- [Knovum](https://github.com/madebyzan/knovum) - Local-first desktop AI knowledge space on an infinite canvas with on-device speech transcription.
 - [Lokus](https://github.com/lokus-ai/lokus) - Local-first note-taking app with a block editor and wiki-style linking.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern Markdown editor with a WYSIWYG mode.
 - [mdSilo](https://github.com/mdSilo/mdSilo-app) - Lightweight Markdown knowledge base with bidirectional links.
