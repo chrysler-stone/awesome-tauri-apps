@@ -47,7 +47,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ### Assistants & Context
 
-- [Beav](https://github.com/Jamailar/Beav) - Local-first social-media workspace with per-account spaces, reusable image templates and an AI-accessible asset library; source available for non-commercial use. (Commercial)
+- [Beav](https://beav.pro/) - Local-first social-media workspace with complete editable RedNote posts, talking-avatar video, and reusable local media; source available for non-commercial use. (Commercial)
 - [OpenAI Translator](https://github.com/openai-translator/openai-translator) - Browser extension and desktop app for AI-powered translation and summarization.
 - [Pot](https://github.com/pot-app/pot-desktop) - Translation and OCR tool with support for AI translation services.
 - [Screenpipe](https://github.com/mediar-ai/screenpipe) - Records your screen and audio locally to give AI context about your work. (Commercial)
