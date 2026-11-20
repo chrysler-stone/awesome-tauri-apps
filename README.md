@@ -60,6 +60,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern Markdown editor with a WYSIWYG mode.
 - [mdSilo](https://github.com/mdSilo/mdSilo-app) - Lightweight Markdown knowledge base with bidirectional links.
 - [NoteGen](https://github.com/codexu/note-gen) - Markdown notes with AI-assisted capture and sync.
+- [NookNook](https://github.com/MrRealORG/Nook) - Cozy, 100% offline notes desk: markdown notes, tasks with reminders, a kanban board, a meeting recorder and bring-your-own-key AI chat in a 2 MB app.
 - [Project Graph](https://github.com/graphif/project-graph) - Node-based visual tool for organizing thoughts and notes in a non-linear way.
 
 ## Developer Tools
