@@ -43,6 +43,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [CC Switch](https://github.com/farion1231/cc-switch) - Desktop tool to manage and switch providers and configs for Claude Code, Codex and similar AI coding CLIs.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Desktop app to monitor and manage Codex sessions, for macOS and Linux.
 - [Helicon](https://github.com/HarjjotSinghh/helicon) - Desktop GUI for Meta's Muse Code CLI with threads across projects, inline diffs and one-at-a-time approvals. Unofficial, not affiliated with Meta.
+- [OmniHarness](https://github.com/wasrecordrecorder/omni-harness) - Native autonomous AI-agent desktop harness for Windows 11 with phantom computer use, ConPTY, and MCP support.
 - [Opcode](https://github.com/winfunc/opcode) - GUI for Claude Code to manage sessions, agents and projects (formerly Claudia).
 
 ### Assistants & Context
