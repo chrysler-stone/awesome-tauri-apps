@@ -107,6 +107,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Musicat](https://github.com/basharovV/musicat) - Sleek desktop music player and tagger for offline music.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Cross-device virtual file explorer.
 - [Zenith](https://github.com/tonieninja/zenith-player) - Unofficial YouTube Music desktop player with synced lyrics, a 15-band EQ, crossfade, offline downloads and a phone remote.
+- [Lap](https://github.com/julyx10/lap) - An offline-first photo manager for large local libraries.
 
 ## Games & Launchers
 
