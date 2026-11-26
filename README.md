@@ -34,6 +34,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 - [Handy](https://github.com/cjpais/Handy) - Free, open-source, offline speech-to-text for any text field.
 - [talat](https://talat.app) - Transcribes meetings and dictation on your own machine, with notes and summaries, for macOS and Windows. Closed-source. (Commercial)
+- [TypeAloud](https://github.com/hellotaotao/typealoud) - Open-source hold-to-talk dictation for macOS and Windows that transcribes on-device with Qwen3-ASR, including mixed Chinese and English.
 - [Vibe](https://github.com/thewh1teagle/vibe) - Local audio/video transcription powered by Whisper.
 - [Whispering](https://github.com/epicenter-so/epicenter) - Open-source push-to-talk dictation app with local and cloud transcription.
 
