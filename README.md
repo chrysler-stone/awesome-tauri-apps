@@ -59,6 +59,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [Lokus](https://github.com/lokus-ai/lokus) - Local-first note-taking app with a block editor and wiki-style linking.
 - [MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern Markdown editor with a WYSIWYG mode.
 - [mdSilo](https://github.com/mdSilo/mdSilo-app) - Lightweight Markdown knowledge base with bidirectional links.
+- [Nacho Viewer](https://github.com/nuncaeslupus/nacho-viewer) - Free, open-source Markdown viewer for Linux, Windows and macOS that renders documents like a typeset page.
 - [NoteGen](https://github.com/codexu/note-gen) - Markdown notes with AI-assisted capture and sync.
 - [Project Graph](https://github.com/graphif/project-graph) - Node-based visual tool for organizing thoughts and notes in a non-linear way.
 
