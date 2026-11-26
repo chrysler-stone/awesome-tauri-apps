@@ -68,6 +68,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 - [GitButler](https://github.com/gitbutlerapp/gitbutler) - Git client with virtual branches and a modern workflow.
 - [Hopp](https://github.com/gethopp/hopp) - Open-source remote pair programming app.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development ecosystem (desktop app built with Tauri). (Commercial)
+- [IA Usage](https://github.com/ewan147/IA-Usage) - Windows dashboard for Claude Code token history and Cursor usage CSVs.
 - [kftray](https://github.com/hcavarsan/kftray) - Manage Kubernetes port-forwards from the system tray.
 - [SGSql](https://github.com/stalingino/sgsql) - Fast SQL client for MySQL, PostgreSQL, SQLite and Oracle, with MCP sharing for AI agents.
 - [Yaak](https://github.com/mountain-loop/yaak) - Fast, offline-friendly API client for REST, GraphQL, gRPC and more. (Commercial)
