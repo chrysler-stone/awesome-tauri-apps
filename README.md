@@ -130,6 +130,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 ## Utilities
 
 - [BongoCat](https://github.com/ayangweb/BongoCat) - Desktop pet cat that reacts to your keyboard and mouse.
+- [Breathing Room](https://github.com/bucabay/breathing-room-app) - Open-source macOS storage and maintenance app with reviewable cleanup plans.
 - [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Cross-platform clipboard manager.
 - [NeoHtop](https://github.com/Abdenasser/neohtop) - Modern, cross-platform system monitor in the spirit of htop.
 - [Pake](https://github.com/tw93/Pake) - Turn any web page into a lightweight desktop app with one command.
