@@ -39,6 +39,7 @@ Tauri lets you build small, fast and secure apps with a web frontend and a Rust 
 
 ### AI Coding
 
+- [AgentDeck](https://github.com/mantou132/AgentDeck) - Open-source, end-to-end encrypted iOS and Android client for controlling Claude Code, Codex, DeepSeek Harness, and ACP agents remotely.
 - [Bloop](https://github.com/BloopAI/bloop) - AI-powered code search and Q&A over your codebase (archived).
 - [CC Switch](https://github.com/farion1231/cc-switch) - Desktop tool to manage and switch providers and configs for Claude Code, Codex and similar AI coding CLIs.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Desktop app to monitor and manage Codex sessions, for macOS and Linux.
